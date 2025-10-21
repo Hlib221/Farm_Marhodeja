@@ -1,0 +1,16 @@
+MaintenanceID;Date;Description;Cost;EmployeeID;EquipmentID
+1;"2025-01-15";"Regular maintenance and oil change";250.00;1;1
+2;"2025-01-20";"Software update and calibration";180.00;2;2
+3;"2025-02-01";"Hydraulic system check";320.00;3;3
+4;"2025-02-10";"Heating element replacement";450.00;4;4
+5;"2025-02-15";"Lens cleaning and alignment";150.00;5;5
+6;"2025-02-20";"Belt replacement and lubrication";280.00;1;6
+7;"2025-03-01";"Control panel repair";520.00;6;7
+8;"2025-03-05";"Chuck replacement";380.00;7;8
+9;"2025-03-10";"Filter replacement";220.00;8;9
+10;"2025-03-15";"Battery replacement";190.00;9;10
+11;"2025-03-20";"Annual safety inspection";350.00;2;1
+12;"2025-04-01";"Cooling system maintenance";290.00;3;2
+13;"2025-04-10";"Emergency repair motor failure";680.00;10;4
+14;"2025-04-15";"Preventive maintenance";200.00;4;6
+15;"2025-04-20";"Software diagnostics";160.00;11;2

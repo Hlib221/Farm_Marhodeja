@@ -1,0 +1,11 @@
+InsuranceID;CompanyName;PolicyNumber;StartDate;EndDate
+1;"Alfa Insurance Ukraine";"INS-2024-001";"2024-01-01";"2025-12-31"
+2;"PZU Ukraine";"INS-2024-002";"2024-02-15";"2026-02-14"
+3;"INGO Ukraine";"INS-2024-003";"2024-03-01";"2025-02-28"
+4;"ARX Insurance";"INS-2024-004";"2024-04-10";"2026-04-09"
+5;"USI Group";"INS-2024-005";"2024-05-20";"2025-05-19"
+6;"TAS Insurance";"INS-2024-006";"2024-06-01";"2026-05-31"
+7;"Unika Insurance";"INS-2024-007";"2024-07-15";"2025-07-14"
+8;"Kniazha Insurance";"INS-2024-008";"2024-08-01";"2026-07-31"
+9;"Vuso Insurance";"INS-2024-009";"2024-09-10";"2025-09-09"
+10;"Universalna Insurance";"INS-2024-010";"2024-10-01";"2026-09-30"

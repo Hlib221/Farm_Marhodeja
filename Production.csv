@@ -1,0 +1,16 @@
+ProductionID;ProductName;StartDate;EndDate;Status;InventoryID
+1;"Steel Frame Assembly";"2025-01-10";"2025-02-15";"Completed";1
+2;"Wire Harness Production";"2025-02-01";"2025-03-10";"Active";2
+3;"Plastic Container Manufacturing";"2025-01-15";"2025-02-20";"Completed";3
+4;"Wooden Furniture Set";"2025-02-05";"2025-03-25";"Active";4
+5;"Chemical Processing Batch A";"2025-01-20";"2025-02-28";"Active";5
+6;"Electronic Device Assembly";"2025-02-10";"2025-04-01";"Planning";6
+7;"Packaging Line Setup";"2025-01-25";"2025-02-25";"Completed";7
+8;"Tool Manufacturing Process";"2025-02-15";"2025-04-10";"Active";8
+9;"Aluminum Window Frames";"2025-01-30";"2025-03-15";"Active";9
+10;"Plastic Parts Molding";"2025-02-20";"2025-03-30";"Planning";10
+11;"Tile Installation Project";"2025-01-12";"2025-02-18";"Completed";11
+12;"Rubber Seal Production";"2025-02-08";"2025-03-20";"Active";12
+13;"Metal Structure Welding";"2025-01-18";"2025-02-22";"Completed";13
+14;"Copper Wire Processing";"2025-02-12";"2025-03-28";"Active";14
+15;"Industrial Equipment Assembly";"2025-01-28";"2025-04-05";"Planning";15

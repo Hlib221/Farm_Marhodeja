@@ -1,0 +1,11 @@
+EquipmentID;EquipmentType;Model;PurchaseDate;`Condition`
+1;"CNC Milling Machine";"Haas VF-2";"2023-05-15";"Excellent"
+2;"Industrial Welding Robot";"KUKA KR 16";"2022-08-20";"Good"
+3;"Hydraulic Press";"Schuler SMG 630";"2021-11-10";"Good"
+4;"Injection Molding Machine";"Engel Victory 200";"2023-03-25";"Excellent"
+5;"Laser Cutting System";"Trumpf TruLaser 3030";"2023-07-12";"Excellent"
+6;"Assembly Line Conveyor";"FlexLink X85";"2022-01-18";"Fair"
+7;"Packaging Automation Line";"Bosch SVE 2520";"2023-09-05";"Excellent"
+8;"Industrial Lathe";"DMG CTX 310";"2020-06-30";"Good"
+9;"Paint Spray Booth";"Global Finishing GFS-2000";"2022-12-14";"Good"
+10;"Forklift";"Toyota 8FBE20";"2021-04-22";"Fair"

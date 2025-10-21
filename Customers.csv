@@ -1,0 +1,13 @@
+CustomerID;CustomerName;Phone;Email;Address;ProductionID
+1;"AutoPlant Kyiv LLC";"+380443334455";"info@autoplant.ua";"Kyiv Industrial Zone 1";1
+2;"BuildCorp Ukraine";"+380562445566";"orders@buildcorp.ua";"Dnipro Construction Ave 45";3
+3;"ElectroTech Solutions";"+380443778899";"contact@electrotech.ua";"Kyiv Technology Park 12";6
+4;"Furniture Masters Ltd";"+380322667788";"sales@furnituremasters.ua";"Lviv Craft Street 33";4
+5;"ChemIndustry Pro";"+380482556677";"procurement@chemindustry.ua";"Odesa Port Road 28";5
+6;"MetalConstruct Group";"+380612889900";"info@metalconstruct.ua";"Zaporizhzhia Industrial District 7";9
+7;"PackSolutions Ukraine";"+380432334455";"orders@packsolutions.ua";"Vinnytsia Logistics Center 15";7
+8;"TechTools Company";"+380532778899";"sales@techtools.ua";"Poltava Industrial Park 22";8
+9;"PlasticWorks Ltd";"+380572445566";"info@plasticworks.ua";"Kharkiv Production Zone 18";10
+10;"ConstructPro Ukraine";"+380623556677";"contact@constructpro.ua";"Donetsk Region Builder St 40";11
+11;"WireNet Solutions";"+380443889900";"orders@wirenet.ua";"Kyiv Electronics Hub 25";2
+12;"Industrial Supply Co";"+380512667788";"sales@industrialsupply.ua";"Mykolaiv Supply Chain Rd 10";12
